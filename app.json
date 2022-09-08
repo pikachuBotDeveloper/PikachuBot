@@ -12,22 +12,22 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jithumon/tgbot",
+  "repository": "https://github.com/pikachuBotDeveloper/PikachuBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
       "value": "ANYTHING"
     },
     "TOKEN": {
-      "description": "Your bot token, as a string."
+      "description": "5423491152:AAG9eNpHbV3bLia7RU9WCgoImpLsUMsmGhs"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "20516707"
+      "value": "5033264822"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "SonOfLars"
+      "value": "pikachuBotSahip"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -42,19 +42,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 18673980 83489514"
+      "value": "5033264822"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 18673980 83489514"
+      "value": "5033264822"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 18673980 83489514"
+      "value": "5033264822"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/PaulSonOfLars"
+      "value": "https://www.buymeacoffee.com/pikachuu"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
